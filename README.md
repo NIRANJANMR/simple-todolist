@@ -1,3 +1,4 @@
 # simple-todolist
 frontend 
-![image](https://user-images.githubusercontent.com/89121686/210134570-8ef58c6d-f3f0-4bfc-9db9-c71999709616.png)
+![image](https://user-images.githubusercontent.com/89121686/210134656-2645d347-1874-409a-a3cb-51075a275f61.png)
+
